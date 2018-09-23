@@ -105,6 +105,14 @@ document.querySelectorAll('.project-item').forEach(e => {
   })
 })
 
+let notification = document.querySelector('.notification')
+
+if (notification !== undefined) {
+  setTimeout(() => {
+    notification.classList.add('notification-hide')
+  }, 5000)
+}
+
 // Instant exec
 
 // Arrow Up

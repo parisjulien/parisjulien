@@ -490,6 +490,50 @@ footer img:last {
   transform: translateX(0);
 }
 
+/* == Notifications == */
+
+.notification {
+  position: fixed;
+  top: 42px;
+  left: 22px;
+  min-width: 40%;
+  border-radius: .33rem;
+  transform: translateX(0);
+  transition: transform .8s;
+}
+
+.notification-header {
+  background-color: rgba(44, 46, 87, .1);
+  width: 100%;
+  border-radius: .33rem;
+}
+
+.notification-header p {
+  color: white;
+  font-weight: 400;
+  padding: 22px;
+  font-size: 1.5rem;
+}
+
+.notification p {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 300;
+  padding: 22px;
+}
+
+.notification.error {
+  background: tomato;
+}
+
+.notification.success {
+  background: seagreen;
+}
+
+.notification.notification-hide {
+  transform: translateX(-200%);
+}
+
 /* == Responsive == */
 
 @media all and (max-width: 1170px) {
