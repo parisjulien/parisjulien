@@ -198,7 +198,7 @@
 <a id="arrow-up" href="#top-page"><img src="./images/arrow-up.svg" alt="arrow up"></a>
 
 <footer>
-  <p id="footer-copy">© Tout droits résérvés - Julien Paris</p>
+  <p id="footer-copy">© Tout droits réservés - Julien Paris</p>
   <p>
     <a href="https://www.linkedin.com/in/julien-paris34/" target="_blank"><img src="./images/social/linkedin-in-color.svg" alt="Julien Paris linkedin" /></a>
     <a href="https://twitter.com/JulienParis13" target="_blank"><img src="./images/social/twitter-color.svg" alt="Julien Paris twitter" /></a>
