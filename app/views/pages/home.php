@@ -50,10 +50,9 @@
 
       <p>
         Je m'appelle Julien Paris, j'ai 21 ans et je suis développeur depuis l'age de 16 ans.
-        J'ai commencé par créer des sites web au départ pour mon premier site personnel
-        et de fil en aiguille, je me suis passionné de la programmation.
-        J'adore expérimenter, découvrir et apprendre au fur et à mesure de mes différents projets
-        personnels et professionnels.
+        J'ai commencé par créer mon premier site personnel et, de fil en aiguille je me suis pris
+        de passion pour la programmation. J'adore expérimenter, découvrir et apprendre au fur et à mesure
+        de mes différents projets personnels et professionnels.
       </p>
     </section>
   </div>
